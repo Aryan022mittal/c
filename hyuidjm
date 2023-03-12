@@ -1,0 +1,12 @@
+nnclude<stdio.h>
+inn()
+{
+    float a,b,sum;
+    printf("\nEnnumber a :");
+    scanf("%f",&a);
+    printf("\n Enter the second number :");
+    scanf("%f",&b);
+    sum=a+b;
+    printf("\n sum of two num :%f\n",sum);
+    return 0;
+}
